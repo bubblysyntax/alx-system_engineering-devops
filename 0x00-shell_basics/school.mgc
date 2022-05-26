@@ -1,2 +1,2 @@
-0 string SCHOOL School data
-file -f school.mgc.lst  
+0 string SCHOOL 
+file [School data] [school.mgc]
